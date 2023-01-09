@@ -1,0 +1,292 @@
+
+body{
+    background-color: rgb(92, 88, 88);
+}
+
+.azul{
+    position: absolute;
+    background-color: blue;
+    border-color: blue;
+    color: blue;
+    width: 95vh;
+    height: 95vh;
+    margin-left: 50vh;
+    
+}
+
+.vermelho{
+    position: absolute;
+    background-color: red;
+    border-color: red;
+    color: red;
+    width: 75vh;
+    height: 75vh;
+    margin-left: 60vh;
+    margin-top: 10vh;
+}
+
+.preto{
+    position: absolute;
+    background-color: black;
+    border-color: black;
+    color: black;
+    width: 55vh;
+    height: 55vh;
+    margin-left: 70vh;
+    margin-top: 20vh;
+}
+
+.verde{
+    position: absolute;
+    background-color: green;
+    border-color: green;
+    color: green;
+    width: 35vh;
+    height: 35vh;
+    margin-left: 80vh;
+    margin-top: 30vh;
+}
+
+.amarelo{
+    position: absolute;
+    background-color: yellow;
+    border-color: yellow;
+    color: yellow;
+    width: 15vh;
+    height: 15vh;
+    margin-left: 90vh;
+    margin-top: 40vh;
+}
+
+
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    margin-top: 20px;
+}
+
+li{
+    display: block;
+    float: left;
+    padding-right: 3px;
+}
+
+li a{
+
+    background-color: red;
+    color: black;
+    width: 100px;
+    text-decoration: none;
+    padding: 10px;
+
+}
+
+li a:hover{
+    background-color: white;
+}
+
+.sup-esquerda{
+    background-color: black;
+    border-color: black;
+    color: black;
+    height: 40vh;
+    width: 40vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+    
+}
+
+.inf-esquerda{
+    background-color: black;
+    border-color: black;
+    color: black;
+    height: 40vh;
+    width: 40vh;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.sup-direita{
+    background-color: black;
+    border-color: black;
+    color: black;
+    height: 40vh;
+    width: 40vh;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.inf-direita{
+    background-color: black;
+    border-color: black;
+    color: black;
+    height: 40vh;
+    width: 40vh;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.pagina2 li {
+    display: inline;
+    margin-top: 350px;
+}
+
+
+.texto1{
+    background-color: black;
+    border-color: black;
+    color: white;
+    border-radius: 50px;
+    height: 30vh;
+    width: 950px;
+    text-align: right;
+    padding: 20px;
+    margin-left: 25vh;
+    margin-top: 60px;
+    text-transform: uppercase;
+}
+
+.texto2{
+    background-color: black;
+    border-color: black;
+    color: white;
+    height: 30vh;
+    width: 950px;
+    padding: 20px;
+    margin-left: 25vh;
+    text-transform: lowercase;
+    overflow: scroll;
+}
+
+.pagina3 li {
+display: inline;
+    float: none;
+    margin: 0px;
+}
+
+
+.quadrado1{
+    background-color: black;
+    border-color: black;
+    height: 10vh;
+    width: 10vh;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.quadrado2{
+    background-color: black;
+    border-color: black;
+    height: 10vh;
+    width: 10vh;
+    position: absolute;
+    top: 11vh;
+    left: 0;
+}
+
+.quadrado3{
+    background-color: black;
+    border-color: black;
+    height: 10vh;
+    width: 10vh;
+    position: absolute;
+    top: 22vh;
+    left: 0;
+}
+
+.quadrado4{
+    background-color: black;
+    border-color: black;
+    height: 10vh;
+    width: 10vh;
+    position: absolute;
+    top: 0;
+    left: 11vh;
+}
+
+.quadrado5{
+    background-color: black;
+    border-color: black;
+    height: 10vh;
+    width: 10vh;
+    position: absolute;
+    top: 11vh;
+    left: 11vh;
+}
+
+.quadrado6{
+    background-color: black;
+    border-color: black;
+    height: 10vh;
+    width: 10vh;
+    position: absolute;
+    top: 0;
+    left: 22vh;
+}
+
+.quadrado7{
+    background-color: black;
+    border-color: black;
+    height: 10vh;
+    width: 10vh;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+
+.quadrado8{
+    background-color: black;
+    border-color: black;
+    height: 10vh;
+    width: 10vh;
+    position: absolute;
+    bottom: 11vh;
+    right: 0;
+}
+
+.quadrado9{
+    background-color: black;
+    border-color: black;
+    height: 10vh;
+    width: 10vh;
+    position: absolute;
+    bottom: 22vh;
+    right: 0;
+}
+
+.quadrado10{
+    background-color: black;
+    border-color: black;
+    height: 10vh;
+    width: 10vh;
+    position: absolute;
+    bottom: 0;
+    right: 11vh;
+}
+
+.quadrado11{
+    background-color: black;
+    border-color: black;
+    height: 10vh;
+    width: 10vh;
+    position: absolute;
+    bottom: 11vh;
+    right: 11vh;
+}
+
+.quadrado12{
+    background-color: black;
+    border-color: black;
+    height: 10vh;
+    width: 10vh;
+    position: absolute;
+    bottom: 0;
+    right: 22vh;
+}
